@@ -12,7 +12,7 @@ function sum(a, b) { //eslint-disable-line
   var ansSum = a + b;
   var numString = `The sum of ${a} and ${b} is ${ansSum}.`;
   var arraySolve = [ansSum, numString];
-  return arraySolve;
+  return arraySolve; 
 }
 
 
